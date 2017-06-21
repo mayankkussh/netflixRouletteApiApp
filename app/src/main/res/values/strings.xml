@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">NetflixMovies</string>
+  <string name="base_url">http://netflixroulette.net/</string>
+  <string name="header_navigation_menu">Netflix Movies</string>
+
+
+</resources>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/abaddon/.android/build-cache/3356330d742d82bdf065d81665ea6991b44d3eee/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2522fecbe00691d1c7a11713ccc9da7bae31b4ba.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.0/ba14d8b7789efde5ee150eacb297b7237abca39/logging-interceptor-3.3.0.jar"
+        revision="25.0.3"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logging-interceptor-3.3.0-2df91031da93346f8cf742bef1698f46e0ddd508.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/be86aeb13f9c114ffbb7d645e671cf197613b50d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-274ef083585175079fbf4b57d09789cb5fd42ea3.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/javax.inject-1-ee9d16febed4f2e43b86af4beba89a3996323cf8.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/picasso-2.5.2-13f61464f9764df1a82e8686e126d0f1a9cab266.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/10f8dc80a8c84de6d2eb26e3e66075ae1bf857bf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cbd306bbf274ea3c413b614ff52425abcbfde2e4.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/Android/Sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-34678c65eee3c537125f41af9aecae82d6f1364a.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.7-32c24ffbd7c3444edfb8c0393a7a9bc774ac80bb.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/3b1f8963485fef2b2a3da1408da7984243c1a0af/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ecc4b253de9075197f2b3484aef37f4237864abe.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        revision="25.0.3"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/eventbus-2.4.0-0944e5395b6dc5466991f36c545822fc8a30dcd5.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/34b54657a8403388672b226f9d64f74c0bcc6328/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-15640bd1fdc9ec2b3e4035742ded359d3ddf2e88.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/57f71fc43d10c4b531b26ec28580e70933632dcf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1a2cf9a9691325242033f4f4a937b7797918ef1f.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/Android/Sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-59db6aa419ce917cfe528df8009ffd7ae88c8352.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/7b23c27a1aab32b34f9c8ddadb0adc54d3397ad7/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9fae7bfae8a512c17bd8d270e3928124ed9a57b1.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/f1304a0a8c4685f1019f01054f021d069e9bfc7f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0a7d3bb0d1c83f050c53ee5c95f95decf9b19dc5.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar"
+        revision="25.0.3"
+        sha1="95037eaee68aa48021511972e9db9ba29916e1c9">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-2.11-ef317b7fb1a71dfc24b36642b4c4461fd494e05a.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/04bd32671989ccc36f508fd18598c2acd247521b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0dfb929903c52645ff73ac6e9dd3a49d4c8ddaf9.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        revision="25.0.3"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/jsr250-api-1.0-0af5ef0dfe9d6118ac76bb3b7a3304eb963e4a4d.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/f4c8e5b57b98b0fafb970a8cfc337f066e77eee0/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ca8dd3666814932b8d4246d9aad08676d4d99f31.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        revision="25.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.8.0-32090a6b6e8497029cd5ebf9809bd76c93cef4f0.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/2076aab80ce8aceec9bf1ade5d2d8c70c65a9834/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a338ce4cc0d7fb6f367a691b440073c3470b278c.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.1.0-0a9e1af74c0414595fae0849e834df6e1cd2876e.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        revision="25.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.0-4fb1704fda3cfcc2738d927ca6a03f213b9912a7.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/12408b8a9d5293731a551f33b9e36f33ed960d36/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8353de59dce95c8823b64f4d4618bd138cf8388c.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.android/build-cache/6bde013b23a94de5e2c48a50fca9a4151ea5dc6d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a7f62a58bdfa8d442fd5bb241b6c48c9ade2213a.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-391aa212440edfffe152ec341d72b94854755cdc.jar" />
+    </item>
+    <item
+        jar="/home/abaddon/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        revision="25.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/abaddon/workspace/android/NetflixMovies/netflixRouletteApiApp/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.3.0-701532742ac128b4b9ac5db4e81f4e02e9eb6d41.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Drawer -->
+  <string name="open_drawer" translatable="false">Open</string>
+  <string name="close_drawer" translatable="false">Open</string>
+  <string name="drawer_home">Dashboard</string>
+</resources>

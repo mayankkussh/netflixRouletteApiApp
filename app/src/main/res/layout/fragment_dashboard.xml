@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_fragment_all_offers"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  <LinearLayout
+      android:id="@+id/search_box"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@color/white"
+      android:orientation="vertical"
+      >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/search_by"
+        style="@style/TextViewHeading"
+        />
+
+    <RadioGroup
+        android:id="@+id/search_radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="4dp"
+        >
+      <RadioButton
+          android:id="@+id/rb_title"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:checked="true"
+          android:text="@string/title"
+          />
+      <RadioButton
+          android:id="@+id/rb_director"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="@string/director"
+          />
+      <RadioButton
+          android:id="@+id/rb_actor"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="@string/actor"
+          />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/search_hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:textStyle="italic"
+        android:text="@string/search_by_title"
+        tools:text="Search for title like Attack on titan"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="@string/search_results"
+          style="@style/TextViewHeading"
+          />
+      <android.support.v7.widget.AppCompatButton
+          android:id="@+id/clear_result_btn"
+          android:layout_width="wrap_content"
+          android:layout_height="40dp"
+          android:textColor="@color/white"
+          android:text="@string/clear_results"
+          app:backgroundTint="@color/colorAccent"
+          />
+    </LinearLayout>
+  </LinearLayout>
+
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/movieListView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/background"
+      />
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Navigation Menu-->
+  <dimen name="navigation_menu_header">225dp</dimen>
+  <dimen name="text_padding">8dp</dimen>
+  <dimen name="medium_text">14sp</dimen>
+  <dimen name="large_text">18sp</dimen>
+  <dimen name="image_height">200dp</dimen>
+</resources>

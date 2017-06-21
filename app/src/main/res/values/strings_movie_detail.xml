@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="basic">Basic</string>
+  <string name="release_year">Release Year</string>
+  <string name="runtime">Runtime</string>
+  <string name="ratings">Ratings</string>
+  <string name="category">Category</string>
+  <string name="director_and_cast">Director and Cast</string>
+  <string name="director">Director</string>
+  <string name="cast">Cast</string>
+  <string name="summary">Summary</string>
+  <string name="image_icon">Image Icon</string>
+</resources>

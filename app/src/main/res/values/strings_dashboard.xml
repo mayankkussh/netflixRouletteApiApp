@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="search_movies">Search Movies</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="add_to_favorite">Add To Fav</string>
+  <string name="remove_from_favorite">Remove</string>
+  <string name="added_to_favorite_list">Added to favorite list</string>
+  <string name="removed_from_favorite_list">Removed from favorite list</string>
+  <string name="movie_already_in_favorites">Element already in favorite list</string>
+  <string name="no_such_movie_found">No such movie found</string>
+  <string name="search_by_title">Search by title like Attack on titan</string>
+  <string name="search_by_director">Search by director like Quentin Tarantino</string>
+  <string name="search_by_actor">Search by actor like Nicolas Cage</string>
+  <string name="search_by">Search By</string>
+  <string name="title">Title</string>
+  <string name="actor">Actor</string>
+  <string name="search_results">Search Results</string>
+  <string name="clear_results">Clear Results</string>
+</resources>
