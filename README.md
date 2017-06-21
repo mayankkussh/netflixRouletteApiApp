@@ -15,3 +15,9 @@ Dagger 2 - To use the dependency injection in the app.
 GreenRobot EventBus - To use the publisher subscriber pattern in android.
 
 Picaso - To efficiently load images in the app.
+
+![Screenshot](/screenshot/Screenshot_20170621-212158.png?raw=true )
+
+![Screenshot](/screenshot/Screenshot_20170621-212204.png?raw=true)
+
+![Screenshot](/screenshot/Screenshot_20170621-212253.png?raw=true)
